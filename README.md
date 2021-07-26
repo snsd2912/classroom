@@ -1,6 +1,6 @@
 # sanglv
 ```
-Lập trình bằng ngôn ngữ PHP, sử dụng DB MySQL để xây dựng website quản lý thông tin sinh viên, tài liệu của 1 lớp học.
+Lập trình bằng PHP, MySQL để xây dựng website quản lý thông tin sinh viên, tài liệu của 1 lớp học.
 Yêu cầu chức năng:
 ```
   + Giáo viên có thể thêm, sửa, xóa các thông tin của sinh viên. Thông tin có các trường cơ bản gồm: tên đăng nhập, mật khẩu, họ tên, email, số điện thoại.
